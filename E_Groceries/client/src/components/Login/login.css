@@ -1,0 +1,58 @@
+.login{
+	display: flex;
+	background-image: url(https://wallpapers.com/images/hd/paper-bag-grocery-d8cw4op31tkdg3zl.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 90vh;
+justify-content: center;
+align-items: center;
+}
+.login-form {
+	padding-top: 0px;
+	padding: 20px;
+	color: white;
+	font-size: large;
+	border: 1px solid  black;
+	border-radius: 4px;
+	background-color: rgba(0,0,0,0.5);
+}
+
+.login-form h2 {
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+.login-form input[type="text"],
+.login-form input[type="email"],
+.login-form input[type="password"] {
+	display: block;
+	width: 90%;
+	padding: 10px;
+	margin-bottom: 0px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	font-size: 14px;
+}
+
+login-form button[type="submit"] {
+	display: block;
+	width: 100%;
+	padding: 20px;
+	background-color: #007bff;
+	border: none;
+	border-radius: 4px;
+	color: #fff;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+
+
+.login-form p {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.login-form p a {
+	color: #007bff;
+}

@@ -1,0 +1,74 @@
+.auth-form-container{
+	display: flex;
+	background-image: url(https://wallpapers.com/images/hd/paper-bag-grocery-d8cw4op31tkdg3zl.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+justify-content: center;
+align-items: center;
+}
+.auth-form-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+form {
+	border-radius: 10px;
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+h2 {
+	margin-bottom: 20px;
+	color:black;
+}
+
+label {
+	margin-top: 10px;
+	font-size: 20px;
+	color: white;
+}
+
+input {
+	margin-top: 5px;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	width: 100%;
+	font-size: 16px;
+}
+
+button {
+	margin-top: 20px;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	background-color: #4CAF50;
+	color: white;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #3e8e41;
+}
+
+b {
+	margin-top: 10px;
+	font-size: 14px;
+	color: red;
+}
+.Address form {
+	padding-top: 50px;
+	padding: 20px;
+	color: white;
+	font-size: large;
+	border: 1px solid  black;
+	border-radius: 4px;
+	background-color: rgba(0,0,0,0.5);
+}
+

@@ -1,0 +1,17 @@
+
+.cancel {
+	text-align: center;
+}
+
+.cancel h1 {
+	font-size: 40px;
+	margin-bottom: 10px;
+}
+
+.cancel .details1 {
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}

@@ -1,0 +1,143 @@
+ /* .signup{
+	display: flex;
+background-repeat: no-repeat;
+background-size: cover;
+height: 10ovh;
+justify-content: center;
+align-items: center;
+}
+
+.signup-form {
+	padding-bottom: 10px;
+	padding: 10px;
+	color: white;
+	font-size: 1px;
+	border: 1px solid  black;
+	border-radius: 4px;
+	background-color: rgba(0,0,0,0.5);
+}
+.signup{
+	display: flex;
+	background-image: url(https://midwestcommunity.org/wp-content/uploads/2018/02/Groceries-ThinkstockPhotos-836782690.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+justify-content: center;
+align-items: center;
+}
+.signup-form h2 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.signup-form input[type="text"],
+.signup-form input[type="text"],
+.signup-form input[type="email"],
+.signup-form input[type="tel"],
+.signup-form input[type="password"],
+.signup-form input[type="password"]
+ {
+	display: block;
+	width: 90%;
+	align-items: left;
+	padding:10px;
+	margin-bottom: 10px;
+	border: 1px solid #e67f7f;
+	border-radius: 4px;
+	font-size: 16px;
+}
+
+.signup-form button[type="submit"] {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	background-color: #007bff;
+	border: none;
+	border-radius: 4px;
+	color: #160101;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.signup-form button[type="submit"]:hover {
+	background-color: #0069d9;
+}
+
+.signup-form p {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.signup-form p a {
+	color: #007bff;
+} 
+
+
+ */
+
+	.signup {
+  display: flex;
+  background-image: url(https://wallpapers.com/images/hd/paper-bag-grocery-d8cw4op31tkdg3zl.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; /* Adjust the height as per your preference */
+  justify-content: center;
+  align-items: center;
+}
+
+.signup-form {
+  padding: 15px;
+  color: white;
+  font-size: 14px; /* Adjust the font size as needed */
+  border: 1px solid black;
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.signup-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.signup-form input[type="text"],
+.signup-form input[type="text"],
+.signup-form input[type="email"],
+.signup-form input[type="tel"],
+.signup-form input[type="password"],
+.signup-form input[type="password"] {
+  display: block;
+  width: 90%;
+  padding: 8px;
+		justify-content: center;
+		align-items: center;
+  border: 1px solid #e67f7f;
+  border-radius: 4px;
+  font-size: 14px;
+		margin-bottom: 0px;
+}
+
+.signup-form button[type="submit"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  color: #160101;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.signup-form button[type="submit"]:hover {
+  background-color: #0069d9;
+}
+
+.signup-form p {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.signup-form p a {
+  color: #007bff;
+}
+

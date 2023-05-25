@@ -1,0 +1,23 @@
+/* .HomePage {
+	display: flex;
+	background-image: url("https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg");
+	background-size: cover;
+	background-position: center; 
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+} */
+.homePage{
+	background-image:url("https://t3.ftcdn.net/jpg/03/35/74/56/360_F_335745675_MaxYxSsadrviZdThITuHB2oCohYOiwEu.jpg") ;
+	height: 90vh;
+ background-size: cover;
+ background-position: center;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ color: white;
+ text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+
+}
